@@ -65,5 +65,5 @@ This project was built by a collaborative team focusing on:
 
 This collaborative approach allowed us to quickly implement the core features and ensure a fun, functional game experience.
 
-#GitHub Link
+# GitHub Link
 https://github.com/ArpitKumarSingh2004/Tetris-Game-CGM-
